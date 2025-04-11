@@ -1,0 +1,2 @@
+echo "🧼 Linting staged files..."
+npx lint-staged
